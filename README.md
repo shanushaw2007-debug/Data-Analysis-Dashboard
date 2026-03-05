@@ -99,4 +99,4 @@ Purpose of the Dashboard
 • To make HR analytics simpler and more effective
 
 Author  
-Created by: Shanu Shaw
+Shanu Shaw
